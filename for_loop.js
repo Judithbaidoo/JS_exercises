@@ -10,3 +10,7 @@ const loop_exercize = ()=> {
 }
 
 console.log(loop_exercize())
+
+const fizzbuzzUntil = (number) => {
+
+}
